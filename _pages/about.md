@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Librarian at <a href='https://www.brin.go.id'>National Research and Innovation Agency</a>. Incoming MSc Data Science student at <a href='https://www.sheffield.ac.uk/ijc'>the University of Sheffield Information School</a>.
+subtitle: Librarian at <a href='https://www.brin.go.id'>National Research and Innovation Agency</a>. MSc Data Science student at <a href='https://www.sheffield.ac.uk/ijc'>the University of Sheffield Information School</a>.
 
 profile:
   align: right
