@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-21 21:00:00-0400
+date: 2025-08-13 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I have an opportunity to share our work for undergraduate students at the University of Oklahoma.
+I'll be giving a speech about dissemination of research & innovation in Lombok.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-13 09:00:00-0400
+date: 2025-10-02 13:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I'll be giving a speech about dissemination of research & innovation in Lombok
+I will present a workshop on textual analysis in the International Webinar & Workshop: AI and the future of education.
