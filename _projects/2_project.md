@@ -8,7 +8,7 @@ category: open science
 giscus_comments: false
 ---
 
-Nothing to see here, but we expect to publish our work by the end of 2025.
+Nothing to see here, but we expect to publish our work by the mid of 2026.
 
     ---
     Team member:
