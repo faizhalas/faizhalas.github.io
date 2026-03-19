@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-ll-be-giving-a-speech-about-dissemination-of-research-amp-amp-innovation-in-lombok",
-          title: 'I’ll be giving a speech about dissemination of research &amp;amp;amp; innovation in Lombok....',
-          description: "",
-          section: "News",},{id: "news-i-will-present-a-workshop-on-textual-analysis-in-the-international-webinar-amp-amp-workshop-ai-and-the-future-of-education",
+            },},{id: "news-i-will-present-a-workshop-on-textual-analysis-in-the-international-webinar-amp-amp-workshop-ai-and-the-future-of-education",
           title: 'I will present a workshop on textual analysis in the International Webinar &amp;amp;amp;...',
           description: "",
           section: "News",},{id: "news-i-have-an-opportunity-to-share-our-work-at-the-lis-bibliometrics-conference-2025-in-leicester",
           title: 'I have an opportunity to share our work at the LIS-Bibliometrics Conference 2025...',
+          description: "",
+          section: "News",},{id: "news-i-will-present-our-new-project-during-a-poster-session-at-the-edinburgh-open-research-conference-2026-which-will-be-held-at-the-university-of-edinburgh",
+          title: 'I will present our new project during a poster session at the Edinburgh...',
           description: "",
           section: "News",},{id: "projects-coconut-libtool",
           title: 'Coconut Libtool',
