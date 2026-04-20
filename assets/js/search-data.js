@@ -419,9 +419,9 @@ ninja.data = [{
           description: "All-in-one data mining and textual analysis tool for everyone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-unnamed-project",
-          title: 'Unnamed Project',
-          description: "Ongoing project collaborated with 4 students from different universities and a librarian.",
+            },},{id: "projects-txtperpus",
+          title: 'TXTperpus',
+          description: "Collecting, preserving, and providing access to the full text of scientific publications in the field of library and information in Indonesia, including articles from scientific journals as integrated scientific text data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
