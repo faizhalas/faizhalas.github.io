@@ -405,11 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-present-a-workshop-on-textual-analysis-in-the-international-webinar-amp-amp-workshop-ai-and-the-future-of-education",
-          title: 'I will present a workshop on textual analysis in the International Webinar &amp;amp;amp;...',
-          description: "",
-          section: "News",},{id: "news-i-have-an-opportunity-to-share-our-work-at-the-lis-bibliometrics-conference-2025-in-leicester",
+            },},{id: "news-i-have-an-opportunity-to-share-our-work-at-the-lis-bibliometrics-conference-2025-in-leicester",
           title: 'I have an opportunity to share our work at the LIS-Bibliometrics Conference 2025...',
+          description: "",
+          section: "News",},{id: "news-i-m-delighted-to-have-been-awarded-the-fair-data-and-software-awards-from-the-university-of-sheffield-s-office-for-open-research-and-scholarship-and-i-ll-be-sharing-how-to-make-research-data-available-and-connected-across-multiple-platforms",
+          title: 'I’m delighted to have been awarded the FAIR Data and Software Awards from...',
           description: "",
           section: "News",},{id: "news-i-will-present-our-new-project-during-a-poster-session-at-the-edinburgh-open-research-conference-2026-which-will-be-held-at-the-university-of-edinburgh",
           title: 'I will present our new project during a poster session at the Edinburgh...',
