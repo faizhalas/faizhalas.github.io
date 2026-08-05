@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-18 09:00:00-0400
+date: 2026-11-06 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I will present our new project during a poster session at the Edinburgh Open Research Conference 2026, which will be held at the University of Edinburgh.
+We had the opportunity to present our project at the ASIS&T Annual Meeting 2026 in Bangkok.

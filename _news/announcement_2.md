@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-05-14 09:00:00-0400
+date: 2026-06-18 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I'm delighted to have been awarded the FAIR Data and Software Awards from the University of Sheffield's Office for Open Research and Scholarship, and I'll be sharing how to make research data available and connected across multiple platforms.
+I will present our new project during a poster session at the Edinburgh Open Research Conference 2026, which will be held at the University of Edinburgh.

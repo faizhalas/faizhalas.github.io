@@ -25,6 +25,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Standing committee member
+      institution: IFLA Library Publishing Section
+      year: 2026 - Present
     - title: Data Curator (Volunteer)
       institution: OpenAIRE AMKE
       year: 2025 - Present
@@ -51,6 +54,9 @@
     - title: <a href="https://www.coconut-libtool.com">Coconut Libtool</a>
       year: 2022 - Present
       description: Web-based tool for helping and accelerating library service. From librarians to librarians. The Coconut Library Tool is the all-in-one data mining and textual analysis tool for librarians or anyone interested in these applications. Our tool does not require any prior knowledge of coding or programming, making it approachable and great for users who want to test out these data analysis and visualization techniques.
+    - title: <a href="https://txtperpus.id">TXTperpus</a>
+        year: 2024 - Present
+        description: A project to preserve scholarly articles in the field of library science and present them as open textual data.
 
 - title: Honors and Awards
   type: time_table
@@ -73,7 +79,7 @@
     - title: Scholarly communication
     - title: Open science
 
-- title: Talks
+- title: Selected Talks
   type: time_table
   contents:
     - title: Guest Speaker Academic Session 
@@ -82,11 +88,6 @@
       description: Guest speaker at the academic session for undergraduate students.
     - title: Speaker
       institution: Polytechnic Institute of Nuclear Technology
-      year: 2025
-      description:
-        - Speaker for an event held by the Student Research Activity Unit called Hare Rise. Deep discussion about research and scholarly communication in 8 days.
-    - title: Speaker
-      institution: Universitas YARSI
       year: 2025
       description:
         - Speaker for a webinar about how to conduct a systematic literature review using Catchii for students, librarians, and lecturers.
