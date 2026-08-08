@@ -56,12 +56,12 @@
     {
       "title": "Best Librarian of Banjarnegara",
       "date": "2019-02",
-      "awarder": "Dinas Kearsipan dan Perpustakaan Banjarnegara",
+      "awarder": "Dinas Kearsipan dan Perpustakaan Banjarnegara"
     },
     {
       "title": "Best Paper",
       "date": "2022-06",
-      "awarder": "D3 Perpustakaan Universitas Airlangga",
+      "awarder": "D3 Perpustakaan Universitas Airlangga"
     }
   ],
   "publications": [
@@ -103,13 +103,7 @@
     {
       "name": "Library and Information Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Data",
-        "Open science",
-        "Textual analysis",
-        "Scholarly communication",
-        "Science of science"
-      ]
+      "keywords": ["Data", "Open science", "Textual analysis", "Scholarly communication", "Science of science"]
     }
   ],
   "projects": [
