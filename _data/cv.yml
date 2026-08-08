@@ -55,8 +55,8 @@
       year: 2022 - Present
       description: Web-based tool for helping and accelerating library service. From librarians to librarians. The Coconut Library Tool is the all-in-one data mining and textual analysis tool for librarians or anyone interested in these applications. Our tool does not require any prior knowledge of coding or programming, making it approachable and great for users who want to test out these data analysis and visualization techniques.
     - title: <a href="https://txtperpus.id">TXTperpus</a>
-        year: 2024 - Present
-        description: A project to preserve scholarly articles in the field of library science and present them as open textual data.
+      year: 2024 - Present
+      description: A project to preserve scholarly articles in the field of library science and present them as open textual data.
 
 - title: Honors and Awards
   type: time_table
